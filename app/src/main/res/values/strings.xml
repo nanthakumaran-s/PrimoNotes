@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PrimoNotes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_sub_tittle">Note Sub Tittle</string>
+    <string name="type_your_note_here">Type your note here....</string>
+    <string name="customise_your_note">Swipe Up For More Actions</string>
+    <string name="pick_a_color">Pick A Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add Url</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Are you sure? You want to delete this Note...</string>
+    <string name="delete_note_caps">DELETE NOTE</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="back_button">Back Button</string>
+    <string name="done">Done</string>
+    <string name="chosen_image">Chosen Image</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="remove_url">Remove URL</string>
+    <string name="web_url">Web URL</string>
+    <string name="selected_color">Selected Color</string>
+</resources>
